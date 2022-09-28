@@ -27,3 +27,6 @@ I'm using both <a href="https://docs.scala-lang.org/overviews/scala-book/prelimi
 │   ├── DataTypes.scala
 │   └── Hello.scala
 ```
+
+---
+## [Fundamentals](src/1_control_structures/)
