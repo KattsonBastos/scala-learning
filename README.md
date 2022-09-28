@@ -9,13 +9,14 @@ I'm using both <a href="https://docs.scala-lang.org/overviews/scala-book/prelimi
 ---
 ## Contents <p id="contents"></p>
 
-- [Fundamentals](#src/0_fundamentals)
-- [Control Structures](#src/1_control_structures)
+- [Fundamentals](src/0_fundamentals/)
+- [Control Structures](src/1_control_structures/)
 
 <br>
 
 ---
 ## [Fundamentals](src/0_fundamentals/)
+
 ```bash
 ├── 0_fundamentals
 │   ├── Expressions.scala
