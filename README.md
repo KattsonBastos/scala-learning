@@ -29,4 +29,4 @@ I'm using both <a href="https://docs.scala-lang.org/overviews/scala-book/prelimi
 ```
 
 ---
-## [Fundamentals](src/1_control_structures/)
+## [Control Structures](src/1_control_structures/)
